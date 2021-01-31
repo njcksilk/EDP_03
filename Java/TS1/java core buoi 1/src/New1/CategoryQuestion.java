@@ -1,0 +1,7 @@
+package New1;
+
+public class CategoryQuestion {
+	int categoryID;
+	String categoryName;
+
+}
